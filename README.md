@@ -1,7 +1,8 @@
 # Project Description:
 The website will consist of a web page for an NGO.
 
-#Project Specifications:
+# Project Specification:
+
 1.Main page:
   -there will be a short description about the NGO;
   -a project rubric in the left side;
