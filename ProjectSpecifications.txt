@@ -1,0 +1,13 @@
+1.Main Page:
+	-short description of the NGO;
+	-project section on the left;
+	-proposed project ideas on the right;
+	-sign-in/sign-out button.
+2.Project Page:
+	-description;
+	-comment section;
+	-ideas to improve the project;
+	-propose new project.
+3.Propose New Project:
+	-form which must be completed.
+	
