@@ -7,6 +7,7 @@
 	-description;
 	-comment section;
 	-ideas to improve the project;
+	-improve section;
 	-propose new project.
 3.Propose New Project:
 	-form which must be completed.
