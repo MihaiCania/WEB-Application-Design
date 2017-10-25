@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+.header {
+    padding: 15px;
+    height: 200px;
+    
+}
+.left {
+    width: 17%;
+    height: 555px;
+    margin: 0px;
+    float: left;s
+    padding: 0px;
+    border: 1px solid black;
+    overflow: auto;
+}
+.main{
+    width: 65%;
+    height: 545px;
+    float: left;
+    padding: 15px;
+    margin: 5px;
+    overflow: auto;
+    
+}
+.right {
+	width: 17%;
+    margin: 0px;
+    height: 555px;
+    float: right;
+    padding: 0px;
+    border: 1px solid black;
+    overflow: auto;
+}
+
+div.inside {
+    margin: 0px;
+    border-bottom: 1px solid black;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    width: 100%;
+    height: 150px;
+}
